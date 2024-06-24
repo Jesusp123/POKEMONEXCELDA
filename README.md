@@ -19,7 +19,8 @@ The SIX Pages include
 2:Comparsion of AVG Attack Points found in Different Generation
 3:A Comparison between Fire and Water Pokemon
 4:Comparing Stats between Pokemon with one type and Pokemon with two types
-5:c
+5:Comparing Stats of Legendary Pokemon based on Generation
+6. Pivot Table based on data found on previous pages data
 
 # PROCESS
 1. UPLOAD THE DATASET INTO EXCEL
