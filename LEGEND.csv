@@ -1,0 +1,26 @@
+Name,Attack,Defense,Type 1,Generation,Gens,Count,AVG ATT,AVG DEF,TYPES,COUNT,AVG  ATT,AVG DEF
+Mewtwo,110,90,Psychic,1,1,2,130,80,Psychic,9,117.7777778,87.22222222
+MewtwoMega Mewtwo Y,150,70,Psychic,1,2,3,75,91.66666667,Electric,1,85,75
+Raikou,85,75,Electric,2,3,10,112,109,Fire,1,115,85
+Entei,115,85,Fire,2,4,7,110.7142857,103.5714286,Water,3,108.3333333,98.33333333
+Suicune,75,115,Water,2,5,2,107.5,75,Rock,1,100,200
+Regirock,100,200,Rock,3,6,1,131,95,Ice,1,50,100
+Regice,50,100,Ice,3,,,,,Steel,1,75,150
+Registeel,75,150,Steel,3,,,,,Ground,1,150,140
+Kyogre,100,90,Water,3,,,,,Dark,1,90,90
+KyogrePrimal Kyogre,150,90,Water,3,,,,,Grass,1,100,100
+Groudon,150,140,Ground,3,,,,,Normal,2,140,115
+DeoxysNormal Forme,150,50,Psychic,3,,,,,Flying,2,107.5,75
+DeoxysAttack Forme,180,20,Psychic,3,,,,,Fairy,1,131,95
+DeoxysDefense Forme,70,160,Psychic,3,,,,,,,,
+DeoxysSpeed Forme,95,90,Psychic,3,,,,,,,,
+Uxie,75,130,Psychic,4,,,,,,,,
+Darkrai,90,90,Dark,4,,,,,,,,
+ShayminLand Forme,100,100,Grass,4,,,,,,,,
+Mesprit,105,105,Psychic,4,,,,,,,,
+Arceus,120,120,Normal,4,,,,,,,,
+Azelf,125,70,Psychic,4,,,,,,,,
+Regigigas,160,110,Normal,4,,,,,,,,
+TornadusIncarnate Forme,115,70,Flying,5,,,,,,,,
+TornadusTherian Forme,100,80,Flying,5,,,,,,,,
+Xerneas,131,95,Fairy,6,,,,,,,,
