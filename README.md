@@ -12,7 +12,14 @@ THE DATASET SELECTED CONTAINS A SERIES OF STATISTICS REGARDING POKEMON FROM GENE
 [Pokefacts.csv](https://github.com/user-attachments/files/15523831/Pokefacts.csv)
 
 # OVERVIEW
-IMAGE OF EXCEL LAYOUT
+A total of Six Pages were created in the Excel worksheet
+All six are attached in the folder in both CSV and PDF Format
+The SIX Pages include
+1:Stats for every Pokemon in the first six Generations of Pokemon
+2:Comparsion of AVG Attack Points found in Different Generation
+3:A Comparison between Fire and Water Pokemon
+4:Comparing Stats between Pokemon with one type and Pokemon with two types
+5:c
 
 # PROCESS
 1. UPLOAD THE DATASET INTO EXCEL
